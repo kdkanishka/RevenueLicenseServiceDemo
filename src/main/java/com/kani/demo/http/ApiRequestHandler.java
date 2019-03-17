@@ -1,6 +1,6 @@
 package com.kani.demo.http;
 
-import com.kani.demo.concurrent.RevenueLicenceRequestProcessor;
+import com.kani.demo.services.RevenueLicenceRequestProcessor;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 
